@@ -1,0 +1,125 @@
+{
+    "tasks": [	
+        {
+            "id": 1,
+            "name": "build a house",
+            "description": "build a house with all the facilities",
+            "gender": "male"
+        },
+        {
+            "id": 2,
+            "name": "repair a car",
+            "description": "repair a car with all the tools",
+            "gender": "female"
+        },
+        {
+            "id": 3,
+            "name": "clean a room",
+            "description": "clean a room with all the cleaning tools",
+            "gender": "male"
+        },
+        {
+            "id": 4,
+            "name": "write a letter",
+            "description": "write a letter to a friend",
+            "gender": "female"
+        },
+        {
+            "id": 5,
+            "name": "plant a tree",
+            "description": "plant a tree in a garden",
+            "gender": "male"
+        },
+        {
+            "id": 6,
+            "name": "make a cake",
+            "description": "make a cake with all the ingredients",
+            "gender": "female"
+        },
+        {
+            "id": 7,
+            "name": "drive a car",
+            "description": "drive a car with all the safety measures",
+            "gender": "male"
+        },
+        {
+            "id": 8,
+            "name": "make a phone call",
+            "description": "make a phone call to a friend",
+            "gender": "female"
+        },
+        {
+            "id": 9,
+            "name": "make a sandwich",
+            "description": "make a sandwich with all the ingredients",
+            "gender": "male"
+        },
+        {
+            "id": 10,
+            "name": "make a cup of coffee",
+            "description": "make a cup of coffee with all the ingredients",
+            "gender": "female"
+        },
+        {
+            "id": 11,
+            "name": "make a bed",
+            "description": "make a bed with all the bed sheets",
+            "gender": "male"
+        },
+        {
+            "id": 12,
+            "name": "make a salad",
+            "description": "make a salad with all the ingredients",
+            "gender": "female"
+        },
+        {
+            "id": 13,
+            "name": "make a pizza",
+            "description": "make a pizza with all the ingredients",
+            "gender": "male"
+        },
+        {
+            "id": 14,
+            "name": "make a souffle",
+            "description": "make a souffle with all the ingredients",
+            "gender": "female"
+        },
+        {
+            "id": 15,
+            "name": "make a cake",
+            "description": "make a cake with all the ingredients",
+            "gender": "male"
+        },
+        {
+            "id": 16,
+            "name": "make a cup of tea",
+            "description": "make a cup of tea with all the ingredients",
+            "gender": "female"
+        },
+        {
+            "id": 17,
+            "name": "make a cookie",
+            "description": "make a cookie with all the ingredients",
+            "gender": "male"
+        },
+        {
+            "id": 18,
+            "name": "make a cake",
+            "description": "make a cake with all the ingredients",
+            "gender": "female"
+        },
+        {
+            "id": 19,
+            "name": "make a cake",
+            "description": "make a cake with all the ingredients",
+            "gender": "male"
+        },
+        {
+            "id": 20,
+            "name": "make a cake",
+            "description": "make a cake with all the ingredients",
+            "gender": "female"
+        }
+
+    ]
+}
